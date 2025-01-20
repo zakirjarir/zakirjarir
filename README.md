@@ -31,9 +31,9 @@ I’m looking to collaborate on:
 Feel free to contact me via:  
 ✉️ **Email:** [zakirjarir@gmail.com](mailto:zakirjarir@gmail.com)  
 💼 **LinkedIn:** [zakirjarir](https://www.linkedin.com/in/zakir-hossain-jarir-930592326/)  
-🐦 **Twitter:** [@zakirjarir](https://x.com/zakirjarir)
-📺 **YouTube:** [Zakir Jarir]((https://www.youtube.com/@Zakir_Jarir))  
-📘 **Facebook:** [Zakir Jarir]((https://www.facebook.com/zakir.jarir.2024))
+🐦 **Twitter:** [@zakirjarir](https://x.com/zakirjarir)  
+📺 **YouTube:** [Zakir Jarir](https://www.youtube.com/@Zakir_Jarir)  
+📘 **Facebook:** [Zakir Jarir](https://www.facebook.com/zakir.jarir.2024)
 
 ---
 
