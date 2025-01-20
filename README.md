@@ -28,7 +28,7 @@ I’m looking to collaborate on:
 
 ## 📫 How to Reach Me:
 Feel free to contact me via:  
-✉️ **Email:** [zakirjarir@example.com](mailto:zakirjarir@gmail.com)  
+✉️ **Email:** [zakirjarir@gmail.com](mailto:zakirjarir@gmail.com)  
 💼 **LinkedIn:** [zakirjarir](https://www.linkedin.com/in/zakir-hossain-jarir-930592326/)  
 🐦 **Twitter:** [@zakirjarir](https://x.com/zakirjarir)
 
