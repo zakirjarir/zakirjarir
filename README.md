@@ -3,7 +3,7 @@
 Welcome to my GitHub! I’m a passionate developer with a focus on web and software development. I’m always eager to learn and grow, and I strive to create innovative, user-friendly digital solutions that can solve real-world problems.
 
 ## 🚀 Current Focus:
-- 🌐 **Web Development** (HTML, CSS, JavaScript, Vue.js)
+- 🌐 **Web Development** (HTML, CSS, JavaScript, Vue.js,php)
 - 🖥️ **Software Development**  
 - 🔄 **Open-Source Contributions**
 - 💡 Continuously improving my skills through **coding challenges** and real-life applications.
@@ -19,7 +19,7 @@ To become a proficient developer who can create **innovative and impactful digit
 - 🤖 **AI** and **Robotics** in the future
 
 ## 🌱 Currently Learning:
-- ⚡ **Advanced JavaScript frameworks** like **Vue.js**
+- ⚡ **Advanced JavaScript frameworks** like **Vue.js**, **Laravel**
 
 ## 🤝 Collaboration:
 I’m looking to collaborate on:
