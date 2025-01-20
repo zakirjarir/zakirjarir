@@ -52,6 +52,7 @@ I love **hiking** and exploring new places! 🌲🏞️ Nature inspires me just 
 ![V Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-EF4135?style=flat-square&logo=laravel&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white)
 ---
 
 ## 📈 GitHub Stats
