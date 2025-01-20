@@ -54,12 +54,6 @@ I love **hiking** and exploring new places! 🌲🏞️ Nature inspires me just 
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white)
 ---
 
-## 📈 GitHub Stats
-
-![Zakir's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakirjarir&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakirjarir&layout=compact&theme=radical)
-
----
 
 ## 🤝 Let’s Connect!
 Thank you for stopping by! Let’s connect and create something amazing together. 😊
