@@ -19,7 +19,9 @@ To become a proficient developer who can create **innovative and impactful digit
 - 🤖 **AI** and **Robotics** in the future
 
 ## 🌱 Currently Learning:
-- ⚡ **Advanced JavaScript frameworks** like **Vue.js**, **Laravel**
+- ⚡ **Advanced JavaScript frameworks** like **Vue.js**
+
+- ⚡ **Advanced Php frameworks** like **Laravel**
 
 ## 🤝 Collaboration:
 I’m looking to collaborate on:
