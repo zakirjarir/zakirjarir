@@ -26,7 +26,6 @@ To become a proficient developer who can create **innovative and impactful digit
 ## 🤝 Collaboration:
 I’m looking to collaborate on:
 - 🌍 Open-source **Web Projects**
-- 🧠 **AI-related research** and **development**
 
 ## 📫 How to Reach Me:
 Feel free to contact me via:  
