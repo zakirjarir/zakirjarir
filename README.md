@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m **Zakir Hossain** (@zakirjarir)
+# 👋 Hi there, I’m **Zakir Hossain Jarir** (@zakirjarir)
 
 Welcome to my GitHub! I’m a passionate developer with a focus on web and software development. I’m always eager to learn and grow, and I strive to create innovative, user-friendly digital solutions that can solve real-world problems.
 
