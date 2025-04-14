@@ -20,6 +20,7 @@ To become a proficient developer who can create **innovative and impactful digit
 
 ## 🌱 Currently Learning:
 - ⚡ **Advanced JavaScript frameworks** like **Vue.js**
+- ⚡ **Advanced JavaScript frameworks** like **React.js**
 
 - ⚡ **Advanced Php frameworks** like **Laravel**
 
