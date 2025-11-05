@@ -89,7 +89,7 @@ Nature inspires my creativity as much as coding does! 🌲✨
 
 ### 📫 Let's Connect
 <p align="center">
-  <a href="mailto:zakirjarir@gmail.com">✉️ zakirjarir@gmail.com</a>  
+  <a  href="mailto:zakirjarir@gmail.com">✉️ zakirjarir@gmail.com</a>  
   •  
   <a href="https://www.linkedin.com/in/zakir-hossain-jarir-930592326/">LinkedIn</a>  
   •  
@@ -97,7 +97,7 @@ Nature inspires my creativity as much as coding does! 🌲✨
   •  
   <a href="https://www.youtube.com/@Zakir_Jarir">YouTube</a>  
   •  
-  <a href="https://www.facebook.com/zakir.jarir.2024">Facebook</a>  
+  <a href="https://www.facebook.com/zakirjarir1">Facebook</a>  
 </p>
 
 ---
