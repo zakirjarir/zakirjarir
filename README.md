@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#4FC08D;">Zakir Hossain Jarir</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#4FC08D;">Zakir Jarir</span></h1>
 <h3 align="center">💻 Web & Software Developer | 🚀 Tech Explorer | 🔥 Problem Solver</h3>
 
 <p align="center">
@@ -103,4 +103,4 @@ Nature inspires my creativity as much as coding does! 🌲✨
 ---
 
 <h3 align="center">⭐ If you like my work, don’t forget to star some of my repositories!</h3>
-<p align="center">Made with ❤️ by <b>Zakir Hossain Jarir</b></p>
+<p align="center">Made with ❤️ by <b>Zakir Jarir</b></p>
