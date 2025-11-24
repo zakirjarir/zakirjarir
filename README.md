@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:zakirjarir@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/zakir-hossain-jarir-930592326/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/zakirjarir/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://x.com/zakirjarir"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x"></a>
   <a href="https://www.youtube.com/@Zakir_Jarir"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube"></a>
 </p>
@@ -91,7 +91,7 @@ Nature inspires my creativity as much as coding does! 🌲✨
 <p align="center">
   <a  href="mailto:zakirjarir@gmail.com">✉️ zakirjarir@gmail.com</a>  
   •  
-  <a href="https://www.linkedin.com/in/zakir-hossain-jarir-930592326/">LinkedIn</a>  
+  <a href="https://www.linkedin.com/in/zakirjarir/">LinkedIn</a>  
   •  
   <a href="https://x.com/zakirjarir">Twitter</a>  
   •  
