@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#4FC08D;">Zakir Jarir</span></h1>
-<h3 align="center">💻 Web & Software Developer | 🚀 Tech Explorer | 🔥 Problem Solver</h3>
+<h3 align="center">💻 Web & Software Developer |  Tech Explorer |  Problem Solver</h3>
 
 <p align="center">
   <a href="mailto:zakirjarir@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
