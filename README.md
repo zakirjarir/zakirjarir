@@ -1,63 +1,110 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zakir+Hossain+Jarir!;" />
-</h1>
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQE3fSj-al9WVA/profile-displaybackgroundimage-shrink_350_1400/B4EZp5QkTyKYAc-/0/1762970979341?e=1773273600&v=beta&t=9NOSO9XmX6g2fnBGzevbG9y2EKL_A-NF_EpfwVWgjSQ" alt="Zakir Jarir Banner" width="100%" style="border-radius: 15px;">
 
-<h3 align="center">A passionate Web Developer & Tech Explorer from Bangladesh 🇧🇩</h3>
+  <br/><br/>
+
+  <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <span style="color:#4FC08D;">Zakir Hossain Jarir</span></h1>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC08D&center=true&vCenter=true&width=500&lines=Full-Stack+Web+%26+Software+Developer;Laravel+%26+Vue.js+Expert;Crafting+Digital+Experiences;Open+Source+Contributor" alt="Typing SVG" />
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/zakirjarir/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://x.com/zakirjarir"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+    <a href="https://www.youtube.com/@Zakir_Jarir"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <a href="mailto:zakirjarir@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
+
+---
+
+### 🚀 Overview
+I am a **Software Engineer** with a deep obsession for building tools that bridge the gap between imagination and reality. With expertise in the **TALL stack (Tailwind, Alpine, Laravel, Livewire)** and **Vue Ecosystem**, I build high-performance, secure, and SEO-optimized applications.
+
+* 🔭 **Architecting:** Modern SaaS solutions and E-commerce engines.
+* 🧠 **Core Expertise:** Domain-Driven Design (DDD), RESTful API design, and Database Optimization.
+* 📫 **Consultancy:** Available for freelance projects and technical collaborations.
+* 💬 **Ask Me About:** Why I prefer Vue over React (or vice versa!) and my journey in the tech world.
+
+---
+
+### 💻 The Tech Stack Matrix
+
+<div align="center">
+
+| **Frontend Sorcery** | **Backend Mastery** | **Cloud & Databases** |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=vue,nuxt,react,bootstrap,tailwind,js,html,css" /> | <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,python,java" /> | <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,supabase" /> |
+
+| **DevOps & Workspace** | **Mobile App Development** |
+| :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,phpstorm,webstorm,pycharm" /> | <img src="https://skillicons.dev/icons?i=ionic,vue,java,capacitor,androidstudio" /> |
+
+</div>
+
+---
+
+### 🛠️ Professional Experience & Projects
+<div align="left">
+
+#### 💎 **Elite E-Commerce Engine**
+* **Tech:** Laravel 11, Vue 3, Pinia, Stripe Integration, Tailwind CSS & Bootstrap
+* **Feature:** Multi-vendor support, real-time analytics dashboard, product inventory management, order tracking, responsive design for desktop & mobile
+
+#### 🌐 **SaaS Subscription Platform**
+* **Tech:** Nuxt.js, Node.js, Supabase, Tailwind CSS & Bootstrap
+* **Feature:** Role-based access control (RBAC), automated billing, subscription analytics, email notifications, responsive UI
+
+#### 🤖 **AI-Powered Automations**
+* **Tech:** Python, OpenAI API, Laravel, Tailwind CSS
+* **Feature:** Automated content generation, social media scheduling, AI-driven chatbots, customizable automation pipelines
+
+#### 📱 **College Management Mobile App**
+* **Tech:** Ionic, Vue 3, Capacitor, Laravel API, Tailwind CSS & Bootstrap
+* **Feature:** Students can check routines, submit assignments, manage hostel info, view fees, receive real-time notifications, custom plugins for attendance & notifications
+
+#### 🏪 **POS System (HisabPos)**
+* **Tech:** Laravel, Vue 3, MySQL, Tailwind CSS & Bootstrap
+* **Feature:** Inventory management, invoicing, sales reports, barcode scanning, multi-user support, custom Vue components for fast checkout
+
+#### 🌟 **Portfolio & Personal Website**
+* **Tech:** Nuxt.js, Tailwind CSS & Bootstrap, Vue 3
+* **Feature:** Interactive portfolio, GitHub contributions, project showcase, blog section, responsive and modern UI design
+
+</div>
+---
+
+### 📈 Metrics of My Passion
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zakirjarir&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakirjarir&layout=compact&theme=nightowl&hide_border=true" width="49%" />
+</div>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **building my portfolio with exciting projects**
- 
- 🌱 I’m currently learning **React.js, Next.js, and Advanced Laravel**
- 
- 💬 Ask me about **PHP, Laravel, Vue.js... or anything [here](https://github.com/zakirjarir/zakirjarir/issues)**
- 
- ⚡ Fun fact **I love traveling and believe the best ideas come while walking in nature.**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:zakirjarir@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/zakirjarir" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/zakirjarir" target="_blank">
-     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-   <a href="https://www.youtube.com/@Zakir_Jarir" target="_blank">
-     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakirjarir&theme=nightowl&hide_border=true" width="98%" />
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+---
+
+### 🌌 Beyond the Terminal
+When I'm not staring at a code editor, I'm likely:
+- 🗺️ **Exploring:** Nature trails and hidden gems of Bangladesh.
+- 📸 **Photography:** Capturing moments that code can't describe.
+- 📚 **Reading:** Books on Psychology and System Design.
+
+---
+
+### 🤝 Strategic Collaboration
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vuejs,nuxtjs,react,nodejs" />
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,firebase,supabase,vscode,phpstorm" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-zakirjarir.vercel.app/?user=zakirjarir&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-zakirjarir.vercel.app/api?username=zakirjarir&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zakirjarir&theme=nightowl" width="100%" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-zakirjarir.vercel.app/api/top-langs/?username=zakirjarir&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+  
+  <a href="https://facebook.com/zakirjarir1"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.zakirjarir.com"><img src="https://img.shields.io/badge/-My_Portfolio-4FC08D?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </div>
 
-<br/><br/>
-
-<hr/>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)">
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4FC08D&height=120&section=footer&text=Innovating%20Through%20Code&fontSize=25" width="100%"/>
+</p>
