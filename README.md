@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQE3fSj-al9WVA/profile-displaybackgroundimage-shrink_350_1400/B4EZp5QkTyKYAc-/0/1762970979341?e=1773273600&v=beta&t=9NOSO9XmX6g2fnBGzevbG9y2EKL_A-NF_EpfwVWgjSQ" alt="Zakir Jarir Banner" width="100%" style="border-radius: 15px;">
-
-  <br/><br/>
 
   <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <span style="color:#4FC08D;">Zakir Hossain Jarir</span></h1>
 
