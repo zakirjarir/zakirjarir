@@ -18,13 +18,12 @@
 ---
 
 ### 🚀 Overview
-I am a **Software Engineer** with a deep obsession for building tools that bridge the gap between imagination and reality. With expertise in the **TALL stack (Tailwind, Alpine, Laravel, Livewire)** and **Vue Ecosystem**, I build high-performance, secure, and SEO-optimized applications.
+I am a **Full-Stack Web & Mobile Developer** passionate about building modern, high-performance, and secure applications. I specialize in **Laravel, Vue 3, Nuxt.js, Tailwind CSS, Bootstrap**, and **Ionic with Capacitor** for mobile apps. I also leverage **Python and AI APIs** for automations and smart solutions.
 
-* 🔭 **Architecting:** Modern SaaS solutions and E-commerce engines.
-* 🧠 **Core Expertise:** Domain-Driven Design (DDD), RESTful API design, and Database Optimization.
-* 📫 **Consultancy:** Available for freelance projects and technical collaborations.
-* 💬 **Ask Me About:** Why I prefer Vue over React (or vice versa!) and my journey in the tech world.
-
+* 🔭 **Architecting:** SaaS platforms, E-commerce engines, POS systems, and College Management Solutions.  
+* 🧠 **Core Expertise:** Full-stack development, RESTful API design, database optimization, and custom plugin development for mobile apps.  
+* 📫 **Consultancy:** Available for freelance projects, mobile & web solutions, and technical collaborations.  
+* 💬 **Ask Me About:** Vue vs React, Laravel best practices, Ionic mobile development, and building secure, scalable applications.  
 ---
 
 ### 💻 The Tech Stack Matrix
