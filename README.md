@@ -69,19 +69,6 @@ I am a **Full-Stack Web & Mobile Developer** passionate about building modern, h
 </div>
 ---
 
-### 📈 Metrics of My Passion
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakirjarir&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakirjarir&layout=compact&theme=nightowl&hide_border=true" width="49%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakirjarir&theme=nightowl&hide_border=true" width="98%" />
-</div>
-
----
 
 ### 🌌 Beyond the Terminal
 When I'm not staring at a code editor, I'm likely:
