@@ -76,17 +76,6 @@ When I'm not staring at a code editor, I'm likely:
 - 📸 **Photography:** Capturing moments that code can't describe.
 - 📚 **Reading:** Books on Psychology and System Design.
 
----
-
-### 🤝 Strategic Collaboration
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zakirjarir&theme=nightowl" width="100%" />
-  <br/>
-  <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
-  
-  <a href="https://facebook.com/zakirjarir1"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.zakirjarir.com"><img src="https://img.shields.io/badge/-My_Portfolio-4FC08D?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4FC08D&height=120&section=footer&text=Innovating%20Through%20Code&fontSize=25" width="100%"/>
