@@ -33,7 +33,7 @@ I am a **Full-Stack Web & Mobile Developer** passionate about building modern, h
 
 | **DevOps & Workspace** | **Mobile App Development** |
 | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,phpstorm,webstorm,pycharm" /> | <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAASFBMVEVHcEwlev8lev8rgf8idv8lfP8fcv8lev8sgf8cdv8ecv8lef8tgf8lef8ccf8Lb/82hv+Cr/+60v/V5f+gwf/y+P////9YlP/b0OP1AAAAEXRSTlMAOJHS9f/SYuT/5CX/RP///kwjg7wAAAEYSURBVHgBhZPZFsMgCESzkZaEikYl//+nBey+zus9jgOO3U39ME4A0zz03asORzAhIOJyeELrSAB3ivN6ZydSPTAM4fTKUMXB2J2u5BBj2nLeEnEIRpvz6AxKFVctEYJq9pzOYhbJJaWSlefdqGU+kilLTcgYmJPSzawXnd0PFqk7gmcBtS8GQ98NFIlilYQQS86FeN8KBtPgcSBJBrtWlYmZ971FilHhJgWxGHPLlN136pQRZHPNDebAqXqioDC+Q8lX+GbLpc0yaaD4EiiwGrEHGoiuo5CPgupaqY3SU3xeAu/1toS2PritD1PVTKbl4+IzODx8fDJ0Nn9+7FaF9XNNFD6XCIDAeYvs7KWajr2a/0v98zucAdpTITzlMarZAAAAAElFTkSuQmCC"/> <img src="https://skillicons.dev/icons?i=,vue,java,capacitor,androidstudio" /> |
+| <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,phpstorm,webstorm,pycharm" /> | <img src="https://skillicons.dev/icons?ionic,vue,java,capacitor,androidstudio" /> |
 
 </div>
 
