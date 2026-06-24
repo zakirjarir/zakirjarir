@@ -33,7 +33,7 @@ I am a **Full-Stack Web & Mobile Developer** passionate about building modern, h
 
 | **DevOps & Workspace** | **Mobile App Development** |
 | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,phpstorm,webstorm,pycharm" /> | <img src="https://skillicons.dev/icons?ionic,vue,java,capacitor,androidstudio" /> |
+| <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,phpstorm,webstorm,pycharm" /> | <img src="https://skillicons.dev/icons?i=ionic,vue,java,capacitor,androidstudio" />|
 
 </div>
 
