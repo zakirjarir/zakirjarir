@@ -43,7 +43,7 @@ I am a **Full-Stack Web & Mobile Developer** passionate about building modern, h
 <div align="left">
 
 #### 💎 **Elite E-Commerce Engine**
-* **Tech:** Laravel 11, Vue 3, Pinia, Stripe Integration, Tailwind CSS & Bootstrap
+* **Tech:** Laravel , Vue Js, Pinia, Stripe Integration, Tailwind CSS & Bootstrap
 * **Feature:** Multi-vendor support, real-time analytics dashboard, product inventory management, order tracking, responsive design for desktop & mobile
 
 #### 🌐 **SaaS Subscription Platform**
